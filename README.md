@@ -11,5 +11,5 @@ Weather API - https://open-meteo.com/
 * Kotlin Serialization
 * Clean Architecture
 
-<img src="../Screenshot_Home.png" alt="Home Screenshot" width="50%" />
-<img src="../Screenshot_Daily.png" alt="Daily Screenshot" width="50%" />
+<img src="./Screenshot_Home.png" alt="Home Screenshot" width="50%" />
+<img src="./Screenshot_Daily.png" alt="Daily Screenshot" width="50%" />
